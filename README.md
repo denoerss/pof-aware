@@ -20,9 +20,9 @@ The website will serve as a trusted **resource hub** for anyone seeking informat
 
 ### Open Call for Collaboration 💫 
 
-To bring **POF-Aware** to life, I’m seeking collaboration in the following areas:
+To bring **POF-Aware** to life, I'm seeking collaboration in the following areas:
 - **Medical experts** on POF syndrome to ensure the information shared is accurate and credible.
 - **Content writers** who specialize in making complex information accessible and relatable.
 - Individuals who are willing to share their **personal stories** of living with POF syndrome to help build a strong, supportive community.
 
-If you’re interested in collaborating or contributing to this project, feel free to reach out!
+If you're interested in collaborating or contributing to this project, feel free to reach out!
