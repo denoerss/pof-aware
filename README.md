@@ -1,19 +1,10 @@
-# New Next Project
+# POF Aware
 
-### Local Development
+### Project
 
-To work locally, please install the dependencies using `npm i` first.
+Concept · UI/UX-Design · Development 
+Informative website about POF syndrome using modern web technologies [JS · React · Next.js · Styled Components].
 
-Run `npm run dev` to start a development server and open the displayed URL in a browser.
-
-Use `npm run test` to run the tests.
-
-### Scripts
-
-You can use the following commands:
-
-- `npm run dev` to start a development server
-- `npm run build` to build the project
-- `npm run start` to start a production server
-- `npm run test` to run the tests
-- `npm run lint` to run the linter
+### Goal
+Well-founded and accessible information for affected persons, relatives and interested parties.
+user-friendly · barrier-free · modern
