@@ -1,9 +1,5 @@
 # POF-Aware
 
-### Project Overview
-
-_Concept · UI/UX-Design · Development_ of an upcoming platform dedicated to raising **awareness** about **POF syndrome**, built with modern web technologies – _React · Next.js · Styled Components_.
-
 ### Why POF-Aware?
 
 As someone personally affected by **POF syndrome**, I've faced the challenge of finding reliable and accessible information. The resources available online are often limited and fail to explain POF syndrome in a way that is both easy to understand and empowering. Furthermore, there are no self-help groups for POF, which means many individuals and their families lack the community and support they deserve. **POF-Aware** aims to bridge this gap by providing a space for **education**, **empowerment**, and a sense of supportive **community** for those impacted by POF syndrome, including their families and anyone seeking to learn more.
